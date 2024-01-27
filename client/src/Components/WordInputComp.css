@@ -1,0 +1,44 @@
+.search-word-btn{
+    display: flex;
+}
+.word-input{
+    margin:30px  20px;
+    width: 1150px;
+}
+.process-word-btn{
+    margin:30px 0px;
+    /* margin-left: 40px; */
+}
+
+.word-input-table{
+    margin-left: 20px;
+    width: 500px;
+}
+
+
+.process-word-division {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin:0px 20px;
+  }
+  
+  .definition,.parts-of-speech, .synonyms, .antonyms{
+    display: flex;
+  }
+  
+  .parts-of-speech, .synonyms, .antonyms{
+    text-align: left;
+  }
+
+  .definition-text{
+    padding-left: 80px;
+  }
+  .parts-of-speech-text{
+    padding-left: 45px;
+  }
+  .synonyms-text{
+    padding-left: 80px;
+  }
+  .antonyms-text{
+    padding-left: 80px;
+  }

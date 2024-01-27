@@ -1,0 +1,17 @@
+.buttons{
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 600px;
+    display: flex;
+}
+
+.wordinput-button{
+    width: 300px;
+    color: black;
+}
+
+.paragraph-button{
+    width: 300px;
+    color: black;
+}
