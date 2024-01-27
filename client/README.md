@@ -5,7 +5,7 @@ Text Analyzer is a simple free online tool for SEO web content analysis. It help
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Vasu-Botsa6/Text_Analyzer.git
 
 2. Install dependencies:
 npm install
