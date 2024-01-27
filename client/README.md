@@ -1,3 +1,22 @@
+# Text Analyzer
+
+Text Analyzer is a simple free online tool for SEO web content analysis. It helps you analyze text by providing insights such as the most frequent phrases and words, the number of characters, words, sentences, and paragraphs, as well as the estimated reading and speaking time of your content.
+
+## Installation
+
+1. Clone the repository:
+git clone https://github.com/your-username/your-project.git
+
+2. Install dependencies:
+npm install
+
+## Usage
+
+1. Start the development server:
+npm start
+
+2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
